@@ -2,7 +2,7 @@
 
 [Link for the paper](https://www.nature.com/articles/s41596-021-00571-9)
 
-[Link for the GitHub codes]([https://github.com/Matioli-amoc/MethylDackel.git](https://github.com/Matioli-amoc/bisulfite-seq-tools.git))
+[Link for the GitHub codes](https://github.com/Matioli-amoc/bisulfite-seq-tools.git)
 
 # Paper: Smart-RRBS for single-cell methylome and transcriptome analysis
 
