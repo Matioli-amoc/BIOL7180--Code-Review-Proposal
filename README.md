@@ -1,4 +1,4 @@
-# BIOL7180--Code-Review-Proposal
+# BIOL7180--Code-Review
 
 ## Code Review: DNA Methylation Workflow
 
