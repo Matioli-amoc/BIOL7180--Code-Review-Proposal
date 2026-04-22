@@ -16,7 +16,7 @@ This protocol describes a reproducible workflow for analyzing DNA methylation da
 
 ## 1. Repository overview
 
-* **Objective:** This repository provides tools and scripts for processing bisulfite sequencing (BS-seq) data to extract DNA methylation information.
+* **Objective:** This repository provides tools and scripts for processing bisulfite sequencing (BS-seq) data to extract DNA methylation information.It supports key steps in the workflow, including data preprocessing, alignment, and methylation profiling.
 
 ---
 
