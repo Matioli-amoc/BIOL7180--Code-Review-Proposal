@@ -72,7 +72,7 @@ The repository provides reusable scripts. However, there is limited information 
   - absolute file path
   - lack of comments guiding the following steps
 
-Without a fully documented pipeline or example execution, reproducing the analysis may require additional effort from the user.
+Without a fully documented pipeline or example execution, reproducing the analysis may require additional effort.
 
 ---
 
@@ -84,7 +84,7 @@ The documentation is minimal:
 - Dependencies and software requirements are not fully specified
 - There are no detailed step-by-step instructions
 
-Improving the README with usage examples, installation instructions, and expected outputs would significantly improve usability.
+Improving the README with usage examples, installation instructions, and expected outputs would significantly improve the usability.
 
 ---
 
@@ -112,7 +112,7 @@ Improving the README with usage examples, installation instructions, and expecte
 
 ## 8. Final Evaluation
 
-This repository provides useful tools for bisulfite sequencing data analysis and demonstrates a solid understanding of DNA methylation workflows. However, limitations in documentation, code clarity, and overall organization reduce its accessibility and reproducibility. While the scripts appear to function well within the full pipeline, their dependency on external components and lack of detailed guidance make independent use more challenging. Improving documentation, standardizing the workflow, and enhancing code readability would significantly increase the usability of this repository for a broader audience.
+This repository provides useful tools for bisulfite sequencing data analysis and demonstrates a solid understanding of DNA methylation workflows. However, limitations in documentation, code clarity, and overall organization reduce its accessibility and reproducibility. While the scripts appear to function well within the full pipeline, their dependency on external components and lack of detailed guidance make independent use more challenging. Improving documentation, standardizing the workflow, and enhancing code readability would significantly increase the usability of this repository.
 
 ---
 
